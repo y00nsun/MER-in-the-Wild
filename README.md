@@ -163,5 +163,12 @@ If you use this code or find it helpful for your research, please cite:
   journal   = {Under Review},
   year      = {2025}
 }
+
+@article{hong2023watch,
+  title={Watch or Listen: Robust Audio-Visual Speech Recognition with Visual Corruption Modeling and Reliability Scoring},
+  author={Hong, Joanna and Kim, Minsu and Choi, Jeongsoo and Ro, Yong Man},
+  journal={arXiv preprint arXiv:2303.08536},
+  year={2023}
+}
 ```
-This repository extends and adapts AV-RelScore for emotion recognition.
+This repository extends and adapts [AV-RelScore](https://github.com/joannahong/AV-RelScore) for emotion recognition.
