@@ -154,7 +154,7 @@ Install dependencies:
   - [OpenSMILE GitHub](https://github.com/audeering/opensmile)
 
 ## Citation
-If you use this code or find it helpful for your research, please cite:
+If you use this code or find it helpful for your research, please cite our [paper]():
 
 ```yaml
 @article{lee2025cars,
